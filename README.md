@@ -44,7 +44,7 @@ Open Tickets:  <br/>
 <img src="https://i.imgur.com/Kw8RnrW.png" height="80%" width="80%" alt="Ticketing System"/>
 <br />
 <br />
-Inside this ticket we are able to assign this ticket to a team member for example, "David" has been assigned to help John reset his password
+Inside this ticket we are able to assign this ticket to a team member, for example, "David" has been assigned to help John reset his password
 <br />
 <br />
 Assignee:  <br/>
@@ -58,7 +58,7 @@ Incident Selection:  <br/>
 <img src="https://i.imgur.com/doA8F6d.png" height="80%" width="80%" alt="Ticketing System" >
 <br />
 <br />
-Priority:  <br/>
+Priority Selection:  <br/>
 <img src="https://i.imgur.com/o3RrBhJ.png" height="20%" width="20%" alt="Ticketing System" >
 <br />
 <br />
