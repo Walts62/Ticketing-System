@@ -59,21 +59,21 @@ Incident Selection:  <br/>
 <br />
 <br />
 Priority:  <br/>
-<img src="https://i.imgur.com/o3RrBhJ.png" height="30%" width="30%" alt="Ticketing System" >
+<img src="https://i.imgur.com/o3RrBhJ.png" height="20%" width="20%" alt="Ticketing System" >
 <br />
 <br />
 We can also select the current progress of the ticket
 <br />
 <br />
 Ticket Progress:  <br/>
-<img src="https://i.imgur.com/Zlt7BC1.png" height="30%" width="30%" alt="Ticketing System"/>
+<img src="https://i.imgur.com/Zlt7BC1.png" height="20%" width="20%" alt="Ticketing System"/>
 <br />
 <br />
 Internal or public comments can be made
 <br />
 <br />
 Comments:  <br/>
-<img src="https://i.imgur.com/wA0WcQc.png" height="80%" width="80%" alt="Ticketing System" >
+<img src="https://i.imgur.com/wA0WcQc.png" height="60%" width="60%" alt="Ticketing System" >
 <br />
 <br />
 Once the ticket has been resolved, we can now close the ticket
