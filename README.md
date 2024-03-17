@@ -17,49 +17,70 @@ We utilized a self-hosted ticketing software installed on an Ubuntu Virtual Mach
 <p align="center">
 <br />
 <br />
-Load our virtual Peppermint Ticketing System
+Loaded our virtual Peppermint Ticketing System
 <br />
 <br />
 Peppermint Dashboard: <br/>
-<img src="https://i.imgur.com/ZUYJlUO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZUYJlUO.png" height="80%" width="80%" alt="Ticketing System"/>
 <br />
 <br />
 Within the admin settings, we are able to create team members that can be assigned new tickets<br />
 <br />
-Interal User Creation:  <br/>
-<img src="https://i.imgur.com/vsSaC4I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating New Users:  <br/>
+<img src="https://i.imgur.com/vsSaC4I.png" height="80%" width="80%" alt="Ticketing System"/>
 <br />
 <br />
-Peppermint allows us to be able to simulate real clients creating tickets, for example: John needs help resetting his password
+We can simulate real clients creating tickets, for example: John needs help resetting his password
 <br />
 <br />
-User Creation: <br/>
-<img src="https://i.imgur.com/OG7aKMR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+New Ticket: <br/>
+<img src="https://i.imgur.com/OG7aKMR.png" height="80%" width="80%" alt="Ticketing System"/>
+<br />
+<br />
+This now creates a ticket for our team member to view and respond to    
 <br />
 <br />
 Open Tickets:  <br/>
-<img src="https://i.imgur.com/Kw8RnrW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kw8RnrW.png" height="80%" width="80%" alt="Ticketing System"/>
 <br />
 <br />
 Inside this ticket we are able to assign this ticket to a team member for example, "David" has been assigned to help John reset his password
 <br />
 <br />
-Inside the Ticket:  <br/>
-<img src="https://i.imgur.com/zcgfTpF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assignee:  <br/>
+<img src="https://i.imgur.com/zcgfTpF.png" height="80%" width="80%" alt="Ticketing System"/>
 <br />
 <br />
-These tickets can also be assigned the type of issue, 
+These tickets can also be assigned the type of incident and the priority of the ticket
 <br />
 <br />
-Sanitization complete:  <br/>
-    <img src="https://i.imgur.com/MvyU1Kd.png" height="80%" width="80%" alt="Disk Sanitization Steps" >
-    <img src="https://i.imgur.com/doA8F6d.png" height="80%" width="80%" alt="Disk Sanitization Steps" >
-    <img src="https://i.imgur.com/o3RrBhJ.png" height="30%" width="30%" alt="Disk Sanitization Steps" >
+Incident Selection:  <br/>
+<img src="https://i.imgur.com/doA8F6d.png" height="80%" width="80%" alt="Ticketing System" >
 <br />
 <br />
-<p align="center">
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Priority:  <br/>
+<img src="https://i.imgur.com/o3RrBhJ.png" height="30%" width="30%" alt="Ticketing System" >
+<br />
+<br />
+We can also select the current progress of the ticket
+<br />
+<br />
+Ticket Progress:  <br/>
+<img src="https://i.imgur.com/Zlt7BC1.png" height="30%" width="30%" alt="Ticketing System"/>
+<br />
+<br />
+Internal or public comments can be made
+<br />
+<br />
+Comments:  <br/>
+<img src="https://i.imgur.com/wA0WcQc.png" height="80%" width="80%" alt="Ticketing System" >
+<br />
+<br />
+Once the ticket has been resolved, we can now close the ticket
+<br />
+<br />
+Closed Ticket:  <br/>
+<img src="https://i.imgur.com/7nqjtth.png" height="80%" width="80%" alt="Ticketing System"/>
 </p>
 
 <!--
