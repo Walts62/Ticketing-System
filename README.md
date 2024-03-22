@@ -3,7 +3,7 @@
 <h2>Description</h2>
 We utilized a self-hosted ticketing software installed on an Ubuntu Virtual Machine as part of our learning process to understand how ticketing systems operate in a real-world environment. This comprehensive system enabled us to create users, manage tickets, assign tickets to appropriate personnel, facilitate incident selection, prioritize tasks, provide comments for updates and resolutions, and track the progression of tickets efficiently. Through hands-on experience with this software, we gained valuable insights into the functionalities and workflows involved in managing and resolving issues within a structured ticketing framework<br />
 
-<h2>Utilities Used</h2>
+<h2>Utilities Used</h2> 
 
 - <b>Oracle VirtualBox</b>
 - <b>Peppermint</b>
